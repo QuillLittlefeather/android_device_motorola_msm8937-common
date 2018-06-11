@@ -20,6 +20,6 @@ set -e
 
 # Required!
 export DEVICE_COMMON=qcom318-32
-export PLATFORM_DEVICES="cedric montana owens perry"
+export PLATFORM_DEVICES="cedric james montana owens perry"
 
 ./../../$VENDOR/$DEVICE_COMMON/setup-makefiles.sh $@
